@@ -220,8 +220,7 @@ a {
     padding-top: 30px;
     padding-left: 75px;
     padding-right: 75px;
-    background:#fff;
-    opacity: 0.9;
+    background:url("../img/bgsubs.png");
     clear:left;
 }
 
